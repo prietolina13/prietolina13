@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lina
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lina-prieto/)]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lina-prieto/)](https://www.linkedin.com/in/lina-prieto/)
 
 :computer: _Software Engineer 1 at [Indra](https://www.indracompany.com/)_ 🏙️ Living in Bogotá :colombia:
 
