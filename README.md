@@ -5,7 +5,7 @@
 
 :computer: _Software Engineer 1 at [Indra](https://www.indracompany.com/)_ 🏙️ Living in Bogotá :colombia:
 
-![linamarcelap13](https://twitter.com/linamarcelap13/header_photo) "linamarcelap13")
+![linamarcelap13](https://twitter.com/linamarcelap13/header_photo "linamarcelap13")
 
 ### My Tech Stack
 
