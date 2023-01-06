@@ -9,7 +9,7 @@
 
 #### Frontend
 ![HTML5]()
-![Angular]()
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
