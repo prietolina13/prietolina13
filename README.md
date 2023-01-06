@@ -7,7 +7,7 @@
 
 ### My Tech Stack
 
-![C#](https://img.shields.io/badge/-c#-8E44AD?style=flat-square&logo=c#&logoColor=white)
+![C#](https://img.shields.io/badge/-c#-8E44AD?style=flat-square&logo=c#&logoColor=ffffff)
 ![.NET](https://img.shields.io/badge/-.NET-8E44AD?style=flat-square&logo=.NET#&logoColor=white)
 
 #### Frontend
@@ -16,7 +16,7 @@
 
 #### Database
 
-![SQL Server](https://img.shields.io/badge/-SQLServer-DD0031?style=flat-square&logo=angular)
+![SQL Server](https://img.shields.io/badge/-SQLServer-F7A391?style=flat-square&logo=angular)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
