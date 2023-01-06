@@ -3,7 +3,7 @@
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lina-prieto/)](https://www.linkedin.com/in/lina-prieto/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prietolina13@gmail.com)](mailto:prietolina13@gmail.com)-->
 
-:computer: _Software Engineer 1 at [Indra](https://www.indracompany.com/)_ 🏙️ Living in Bogotá :colombia:
+:computer: _Software Engineer at [Indra](https://www.indracompany.com/)_ 🏙️ Living in Bogotá :colombia:
 
 ### My Tech Stack
 
