@@ -16,7 +16,7 @@
 
 #### Database
 
-![SQL Server](https://img.shields.io/badge/-SQLServer-F7A391?style=flat-square&logo=angular)
+![SQL Server](https://img.shields.io/badge/-SQLServer-F7A391?style=flat-square&logo=sqlServer)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
