@@ -7,7 +7,7 @@
 
 ### My Tech Stack
 
-![C#]()
+![C#](https://img.shields.io/badge/-C#-8E44AD?style=flat-square&logo=C#)
 ![.NET]()
 
 #### Frontend
