@@ -8,7 +8,7 @@
 ### My Tech Stack
 
 ![C#](https://img.shields.io/badge/-c#-8E44AD?style=flat-square&logo=c#&logoColor=white)
-![.NET](https://img.shields.io/badge/-8E44AD?style=flat-square&logo=.NET#&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-8E44AD?style=flat-square&logo=.NET#&logoColor=white)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
