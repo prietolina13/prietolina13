@@ -11,7 +11,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-8E44AD?style=flat-square&logo=.NET#&logoColor=white)
 
 #### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=sqlServer)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=sqlServer)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 #### Database
