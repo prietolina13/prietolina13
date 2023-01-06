@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prietolina13@gmail.com)](mailto:prietolina13@gmail.com)-->
 
 :computer: _Software Engineer 1 at [Indra](https://www.indracompany.com/)_ 🏙️ Living in Bogotá :colombia:
+![linamarcelap13]([https://github.com/Gaboso/Gaboso/blob/master/github_cover.png](https://twitter.com/linamarcelap13/header_photo) "linamarcelap13")
 
 ### My Tech Stack
 
